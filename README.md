@@ -51,7 +51,7 @@ Then open the local URL shown in the terminal (typically `http://localhost:8501`
 
 ## Deployed App
 
-[Live Streamlit app link - to be added]
+[https://pe3-vasculitis-vs-vascular-tumors-mcj8kpwn82efslorwguv7z.streamlit.app/](https://pe3-vasculitis-vs-vascular-tumors-mcj8kpwn82efslorwguv7z.streamlit.app/)
 
 ## Project Team (Group PE3)
 
