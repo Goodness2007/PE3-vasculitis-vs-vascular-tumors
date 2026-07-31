@@ -55,8 +55,18 @@ Then open the local URL shown in the terminal (typically `http://localhost:8501`
 
 ## Project Team (Group PE3)
 
-- [Name, registration number, GitHub username]
-- [Name, registration number, GitHub username]
+1. John, Goodness Gideon - 22/EG/PE/1532
+2. Inyang, Mfoniso Uko - 22/EG/PE/1472
+3. Eno, Blessing Edidiong - 22/EG/PE/1482
+4. Nkwegu, Chinedu Anselem - 22/EG/PE/1502
+5. Divine, Benjamin Usoh - 22/EG/PE/1473
+6. Dayspring, Jimmy Udo - 22/EG/PE/1522
+7. Edet, Emmanuel Ita - 22/EG/PE/1552
+8. Esema, Princess Umoh - 23/EG/PE/022
+9. Francis, Richard - 23/EG/PE/052
+10. ⁠John, God’swill Udeme - 23/EG/PE/032
+11. Wisdom, Chibuike Ezigbo - 22/EG/PE/1492
+12. ⁠Etim, Blessed Joseph - 22/EG/PE/1542
 
 ## Files
 
